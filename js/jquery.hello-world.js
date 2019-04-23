@@ -10,5 +10,4 @@ $('body').append('<div id="cover">');
 $('#dialog-form h3').text(content);
  //event.stopPropagation();
     }
-
 }(jQuery));
