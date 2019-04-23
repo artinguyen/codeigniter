@@ -13,4 +13,4 @@ $('#dialog-form h3').text(content);
 }(jQuery));
 
 
-return a + b;
+return c + d;
