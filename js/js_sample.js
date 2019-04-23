@@ -11,3 +11,6 @@ $('#dialog-form h3').text(content);
  //event.stopPropagation();
     }
 }(jQuery));
+
+
+return a + b;
