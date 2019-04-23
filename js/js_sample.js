@@ -4,5 +4,5 @@
 	{
 		return a + b;
 	}
-	
+
 <script>
