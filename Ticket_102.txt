@@ -2,6 +2,3 @@ Add comment
 function Two()
 {
 }
-function one()
-{
-}
